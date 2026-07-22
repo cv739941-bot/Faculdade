@@ -4,4 +4,4 @@ Este repositório reúne os materiais, exercícios e projetos desenvolvidos dura
 
 O objetivo é organizar meu aprendizado, acompanhar minha evolução ao longo do curso e registrar os conhecimentos adquiridos em cada período.
 
-Também estou fazendo isso para aprender a utilizar o Git e o GitHub
+Também estou fazendo isso para aprender a utilizar o Git e o GitHub.
